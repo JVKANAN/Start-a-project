@@ -10,5 +10,8 @@ public class joseryan {
     public void resultado(){
         int soma = A + B;
     }
-    
+    public void resultado1(){
+        int diminuir = A - B;
+    }
+
 }
